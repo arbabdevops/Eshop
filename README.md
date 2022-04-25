@@ -1,11 +1,15 @@
 # Eshop
 Ecommerce Shop created in MERN Stack
 
-##Node_Modules
+## Node_Modules
 Staying in root directory run npm i
 
-##Backend Server
+## Backend Server
 npm run dev
 
-##Data Seeder
+## Data Seeder
 npm run seeder
+
+## Front End
+npm start
+
